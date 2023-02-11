@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Program6",
+            "request": "launch",
+            "mainClass": "Program6",
+            "projectName": "Recursion_d81c9818"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program5",
+            "request": "launch",
+            "mainClass": "Program5",
+            "projectName": "Recursion_d81c9818"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program1",
+            "request": "launch",
+            "mainClass": "Program1",
+            "projectName": "Recursion_d81c9818"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program4",
+            "request": "launch",
+            "mainClass": "Program4",
+            "projectName": "Recursion_d81c9818"
+        },
+        {
+            "type": "java",
+            "name": "Launch program2",
+            "request": "launch",
+            "mainClass": "program2",
+            "projectName": "Recursion_d81c9818"
+        },
+        {
+            "type": "java",
+            "name": "Launch program3",
+            "request": "launch",
+            "mainClass": "program3",
+            "projectName": "Recursion_d81c9818"
+        }
+    ]
+}

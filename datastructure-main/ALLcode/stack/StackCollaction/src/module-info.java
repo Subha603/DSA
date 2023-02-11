@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kundu
+ *
+ */
+module StackCollaction {
+}

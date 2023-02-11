@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program1",
+            "request": "launch",
+            "mainClass": "Program1",
+            "projectName": "kunal recursion 2_a6549e7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program2",
+            "request": "launch",
+            "mainClass": "Program2",
+            "projectName": "kunal recursion 2_a6549e7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program3",
+            "request": "launch",
+            "mainClass": "Program3",
+            "projectName": "kunal recursion 2_a6549e7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Program4",
+            "request": "launch",
+            "mainClass": "Program4",
+            "projectName": "kunal recursion 2_a6549e7e"
+        }
+    ]
+}
